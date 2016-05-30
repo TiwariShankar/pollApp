@@ -1,0 +1,1 @@
+Build a web application like Twitter poll which is developed in Mean stack (http://mean.io/#!/) which allows user to post a poll on any topic. Poll exist for a duration of 24 hours after submission and any registered users can confirm their opinion. After 24 hours of submission user opinion is displayed in percentages.
